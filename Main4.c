@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 #define SIZE 1500
-#define BLOCK_SIZE 150
+#define BLOCK_SIZE 50
 void split_matrix(int, int, int, int);
 double A[SIZE][SIZE], B[SIZE][SIZE], C[SIZE][SIZE];
 int main(){
